@@ -231,3 +231,7 @@ class Searcher:
 # pagelist = ['https://news.ycombinator.com/']
 # crawler = Crawler('')
 # crawler.crawl(pagelist)
+
+b = 0
+a = 0 if b == 0 else 1
+if b == 0: return
